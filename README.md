@@ -1,2 +1,2 @@
 # GENAI-MATERIAL
-Testing CI Pipeline
+GenAI - Testing CI Pipeline
